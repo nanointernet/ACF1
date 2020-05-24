@@ -48,7 +48,7 @@
     "versionPublish": "4.12.3",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x185.png",
+    "favicon": "@PROJECT_PATH@/assets/images/hcemm-hexagon-78x87.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
